@@ -160,7 +160,7 @@ export default tseslint.config({
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia **MIT**. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto está bajo la licencia **MIT**. Para más detalles, consulta el archivo [LICENSE](./LICENSE).
 
 ---
 
